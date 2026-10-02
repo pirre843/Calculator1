@@ -8,7 +8,7 @@ public class Main {
 
         Calculator calculator = new Calculatorimpl();
 
-        int result = calculator.multiply(26, 47);
+        int result = calculator.multiply(28, 47);
         IO.println(result);
 
 
